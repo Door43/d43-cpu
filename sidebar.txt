@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cpu:home|Door43 (cpu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cpu|d43-cpu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cpu/archive/master.zip|d43-cpu.zip]]
+
+**Recent Changes**
+{{changes>ns = cpu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cpu|Ethnologue data]]
+
